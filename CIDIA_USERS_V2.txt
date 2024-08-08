@@ -304,3 +304,13 @@ Subscription: 2024-09-02 23:23:23
 Banned: no
 Blacklisted: no
 
+User Information for @JpEnTmax (1239297481527787522) :
+Customer ID: **
+Username: irlzz
+Password: Timeo151208
+Email: timeovoissot1508@gmail.com
+Hwid: S-1-5-21-2055415017-1433260910-408704471-1001
+Project_key: HBz2S-7gidU-JDbBv
+Subscription: 2024-08-21 23:48:07
+Banned: no
+Blacklisted: no
