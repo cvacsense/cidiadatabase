@@ -314,3 +314,36 @@ Project_key: HBz2S-7gidU-JDbBv
 Subscription: 2024-08-21 23:48:07
 Banned: no
 Blacklisted: no
+
+User Information for @unknown-user (758405274599030815) :
+Customer ID: **
+Username: anarchy
+Password: 53947508ah
+Email: ahmedahmedslimani01@gmail.com
+Hwid: S-1-5-21-884493323-3034082927-1853062611-1001
+Project_key: Bxy0x-ToD0t-zvucj
+Subscription: 2024-09-04 00:13:32
+Banned: no
+Blacklisted: no
+
+User Information for @unknown-user (1232784490959736906) :
+Customer ID: **
+Username: kubudasko
+Password: Polska1314
+Email: wariatxd12345@gmail.com
+Hwid: S-1-5-21-760984325-2628958088-3113117273-500
+Project_key: k3l0I-aeypy-0mKw4
+Subscription: 2024-08-25 21:31:48
+Banned: no
+Blacklisted: no
+
+User Information for @unknown-user (1147048847894388778) :
+Customer ID: **
+Username: swordspluz
+Password: 10gREECE84
+Email: aydenooj@gmail.com
+Hwid: S-1-5-21-2785600822-2937164010-1302950662-1001
+Project_key: lCITr-yxUpr-251wn
+Subscription: 2024-08-26 14:54:35
+Banned: no
+Blacklisted: no
